@@ -1,8 +1,5 @@
 The VirtualBox documentation[1] for how to install guest additions for Linux on a virtual host is somewhat messy. So here is what I did to make it work.
 
-
-
-
 yum update
 yum install gcc kernel-devel make
 
